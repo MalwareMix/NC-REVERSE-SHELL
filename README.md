@@ -9,3 +9,11 @@ YOUTUBE: https://youtu.be/NJH0nP7lv58
 
 
 EDUCATIONAL POURPOSES ONLY PLEASE NO CUPYRIGHT ENJOY AND HACK THE WORLD!
+
+i am currently working on binding this script to a EXE file so it automatically runs in powershell and i cant wait to make it for yall!
+it would mean the world it anyone can donate to my paypal i will soon have a patreon where you can pay to have lessons and be taught by me and other at the same time or you can have private lessons aswell! 
+
+PAYPAL: paypal.me/thegammerssimulant
+
+
+LOVE YALL HAVE FUN!!!
